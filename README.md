@@ -1,7 +1,10 @@
 🎬 MovieApp
 Next.js ile geliştirilmiş, kullanıcı dostu bir film uygulamasıdır. The Movie Database (TMDB) API üzerinden alınan verilerle film arama, detay görüntüleme ve karanlık/aydınlık tema arasında geçiş gibi özellikler sunar.
 
+----
+
 ✨ Özellikler
+
 🔍 Film arama (isim bazlı)
 
 📄 Detay sayfası ile film bilgilerine erişim
@@ -11,6 +14,8 @@ Next.js ile geliştirilmiş, kullanıcı dostu bir film uygulamasıdır. The Mov
 ⚡️ Hızlı sayfa geçişleri (Next.js sayesinde)
 
 🎨 Responsive (mobil uyumlu) tasarım
+
+-----
 
 🛠️ Kullanılan Teknolojiler
 Next.js
